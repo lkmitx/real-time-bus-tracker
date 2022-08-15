@@ -17,6 +17,8 @@ This project is a simulation of a real-time bus tracker, created in week 9 of th
 - Use the second button to see the bus stops going from Harvard to MIT.
 - Reload the page to reset and start over.
 
+You can also see a working demo <a href="https://lkmitx.github.io/real-time-bus-tracker/" target="_blank">here</a>.
+
 ## Roadmap of Future Improvements
 
 Further development of this repository could include the following:
